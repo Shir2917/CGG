@@ -5,4 +5,9 @@ public class GitTest1 {
         System.out.println("git");
         System.out.println("添加本地仓库成功");
     }
+
+
+    public void test(){
+        System.out.println("修改第一次");
+    }
 }
